@@ -5,3 +5,13 @@
 body {
   padding: 60px;
 }
+
+input {
+  width: 100%;
+  font-size: 1.1rem;
+  color: grey;
+}
+
+ul li {
+  font-size: 10px;
+}
